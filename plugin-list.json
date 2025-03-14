@@ -1,7 +1,7 @@
 [
   {
     "name": "EXAMPLEPLUGIN",
-    "description": "This plugin does nothing, just provided as to show how to contribute to the global-plugin-list.",
+    "description": "This plugin does nothing, just provided here as to show how to contribute to the global-plugin-list.",
     "version": "v1.0.0",
     "download_url": "https://raw.githubusercontent.com/Faked2378/global-plugin-list/refs/heads/main/my-random-ahh-plugins/exampleplugin.py"
   }
