@@ -9,7 +9,7 @@ PLUGIN_METADATA = {
 
 # Global variables for the plugin's state
 plugin_tab = None
-greeting_message = "Hello from the Hello Plugin!"
+greeting_message = "Hello"
 
 def register(main_window):
     # I think you should know what this does
