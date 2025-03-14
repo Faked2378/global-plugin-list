@@ -1,0 +1,8 @@
+[
+  {
+    "name": "EXAMPLEPLUGIN",
+    "description": "This plugin does nothing, just provided as to show how to contribute to the global-plugin-list.",
+    "version": "v0.5",
+    "download_url": "https://example.com/plugins/hello_plugin.py"
+  }
+]
