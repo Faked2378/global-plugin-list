@@ -2,9 +2,9 @@ from PySide6.QtWidgets import QLabel, QLineEdit, QVBoxLayout, QWidget
 
 # Plugin metadata
 PLUGIN_METADATA = {
-    "name": "Hello Plugin",
-    "description": "A simple plugin that says hello.",
-    "version": "1.0"
+    "name": "EXAMPLEPLUGIN",
+    "description": "This plugin does nothing, just provided here as to show how to contribute to the global-plugin-list.",
+    "version": "v1.0.0",
 }
 
 # Global variables for the plugin's state
