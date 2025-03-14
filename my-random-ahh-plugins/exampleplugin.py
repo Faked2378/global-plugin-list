@@ -55,10 +55,10 @@ def configure(main_window):
 
 def save_config(main_window):
     # You can save the configuration to a file or database here
-    print("Configuration saved for Hello Plugin.")
+    print("Configuration saved for Plugin.")
 
 def get_plugins(main_window, plugins): 
     # Add this function to get the list of plugins
-    print(f"Hello Plugin: Loaded {len(plugins)} plugins.")
+    print(f"examplePlugin: Loaded {len(plugins)} plugins.")
     for name, module in plugins.items():
         print(f" - {name}: {getattr(module, 'PLUGIN_METADATA', 'No metadata')}")
