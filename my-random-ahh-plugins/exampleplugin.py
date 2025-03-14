@@ -3,7 +3,7 @@ from PySide6.QtWidgets import QLabel, QLineEdit, QVBoxLayout, QWidget
 # Plugin metadata
 PLUGIN_METADATA = {
     "name": "EXAMPLEPLUGIN",
-    "description": "This plugin does nothing, just provided here as to show how to contribute to the global-plugin-list.",
+    "description": "This plugin does nothing, \njust provided here as to show how to contribute to the global-plugin-list.",
     "version": "v1.0.0",
 }
 
